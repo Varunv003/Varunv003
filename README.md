@@ -64,11 +64,10 @@
 # 📊 GitHub Stats:
 
 [![Varunv003's GitHub | Stats](https://stats.quira.sh/Varunv003/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Varunv003)
-[![Varunv003's GitHub | Languages Over Time](https://stats.quira.sh/Varunv003/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Varunv003)
 
-![](https://github-readme-stats.vercel.app/api?username=Varunv003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunv003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Varunv003&theme=shadow_green&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunv003&theme=dark&border_radius=6&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Varunv003&theme=dark&border_radius=6))
 
 <br>
 
