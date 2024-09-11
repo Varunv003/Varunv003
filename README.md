@@ -10,10 +10,14 @@
 - 🔥 I have experience working on projects involving AI-powered document retrieval, content generation platforms, and backend development for live sports data.
 
 - 🌱 Currently, I am diving deeper into AI, exploring Generative AI, document retrieval systems, and advanced full-stack development.
+- 📝 Check out my blog: [![Blog Badge](https://img.shields.io/badge/-Blog-lightblue?style=flat-square&logo=hashnode&logoColor=white)](https://varunv003.hashnode.dev/){:target="_blank"}
+
+
+- 🎯 Portfolio website: [![Badge](https://img.shields.io/badge/-Portfolio-Purple?style=flat-square&logo=simkl&logoColor=white)](https://github.com/Varunv003){:target="_blank"}
 
 - 🌐 Let's Connect: 
-  [![Linkedin Badge](https://img.shields.io/badge/-Varun_Vij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-v-977794218/)](https://www.linkedin.com/in/varun-v-977794218/) 
-  [![Gmail Badge](https://img.shields.io/badge/-varunvij000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunvij000@gmail.com)](mailto:varunvij000@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Varun_Vij-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-v-977794218/){:target="_blank"} 
+  [![Gmail Badge](https://img.shields.io/badge/-varunvij000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:varunvij000@gmail.com){:target="_blank"}
 
 <br>
 
@@ -42,25 +46,25 @@
 
 # 🔥 Projects:
 
-- **[DocChat](https://github.com/Varunv003/langchain-palm2-rag_application)** – Langchain Retrieval System
+- **[DocChat](https://github.com/Varunv003/langchain-palm2-rag_application){:target="_blank"}** – Langchain Retrieval System
   - AI-powered chatbot for querying PDF documents in real-time.
   - Built using Langchain, FAISS, and Google Palm Embeddings with a user-friendly interface for managing document queries.
   
-- **[AI Content Generator](https://github.com/Varunv003/Ai-content_generator-nextjs)** – AI-powered platform for dynamic content generation.
+- **[AI Content Generator](https://github.com/Varunv003/Ai-content_generator-nextjs){:target="_blank"}** – AI-powered platform for dynamic content generation.
   - Developed using Next.js, NEON PostgreSQL, and Drizzle ORM for seamless content creation.
   
-- **[Cricket Score API Backend](https://github.com/Varunv003/live_match_score)** – RESTful API for live cricket scores.
+- **[Cricket Score API Backend](https://github.com/Varunv003/live_match_score){:target="_blank"}** – RESTful API for live cricket scores.
   - Built with Spring Boot and MySQL for real-time sports data.
 
-- **[FloraVision](https://github.com/Varunv003/Plants_Classification)** – Deep learning model for plant species recognition.
+- **[FloraVision](https://github.com/Varunv003/Plants_Classification){:target="_blank"}** – Deep learning model for plant species recognition.
   - Achieved 95% accuracy using CNNs and transfer learning on a diverse plant species dataset.
 
 <br>
 
 # 📊 GitHub Stats:
 
-[![Varunv003's GitHub | Stats](https://stats.quine.sh/Varunv003/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Varunv003)
-[![Varunv003's GitHub | Dependencies](https://stats.quine.sh/Varunv003/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Varunv003)
+[![Varunv003's GitHub | Stats](https://stats.quine.sh/Varunv003/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Varunv003){:target="_blank"}
+[![Varunv003's GitHub | Dependencies](https://stats.quine.sh/Varunv003/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Varunv003){:target="_blank"}
 
 ![](https://github-readme-stats.vercel.app/api?username=Varunv003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunv003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
