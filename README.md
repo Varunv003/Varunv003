@@ -66,8 +66,8 @@
 [![Varunv003's GitHub | Stats](https://stats.quira.sh/Varunv003/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Varunv003)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunv003&theme=dark&border_radius=6&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Varunv003&theme=dark&border_radius=6))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunv003&theme=dark&border_radius=6&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Varunv003&theme=dark&border_radius=6)
 
 <br>
 
