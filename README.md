@@ -11,7 +11,7 @@
 
 - 🌱 Currently, I am diving deeper into AI, exploring Generative AI, document retrieval systems, and advanced full-stack development.
 
-- 🎯 Portfolio website: [![Badge](https://img.shields.io/badge/-Portfolio-Purple?style=flat-square&logo=simkl&logoColor=white&link=https://portfolio-on-react-ten.vercel.app/)](https://portfolio-on-react-ten.vercel.app/)
+- 🎯 Portfolio website: [![Badge](https://img.shields.io/badge/-Portfolio-Purple?style=flat-square&logo=simkl&logoColor=white&)]
 
 - 🌐 Let's Connect: 
   [![Linkedin Badge](https://img.shields.io/badge/-Varun_Vij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-v-977794218/)](https://www.linkedin.com/in/varun-v-977794218/) 
