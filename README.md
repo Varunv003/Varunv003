@@ -58,19 +58,5 @@
 
 - **[FloraVision](https://github.com/Varunv003/Plants_Classification)** – Deep learning model for plant species recognition.
   - Achieved 95% accuracy using CNNs and transfer learning on a diverse plant species dataset.
-
+ 
 <br>
-
-# 📊 GitHub Stats:
-
-[![Varunv003's GitHub | Stats](https://stats.quira.sh/Varunv003/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Varunv003)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunv003&theme=dark&border_radius=6&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Varunv003&theme=dark&border_radius=6)
-
-<br>
-
-<div align="center">
-    <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories!</h3>
-</div>
