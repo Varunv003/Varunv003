@@ -3,7 +3,6 @@
 ### Hi there, I am Varun Vij 👋
 
 # 💫 About Me:
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="260" height="260">
 
 - 🤖 I am a passionate software engineer with a strong foundation in AI, machine learning, and full-stack development. I love building innovative solutions that solve real-world problems.
   
