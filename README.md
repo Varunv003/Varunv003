@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Varunv003&color=green" alt="Varunv003" /> </p>
-
 ### Hi there, I am Varun Vij 👋
 
 # 💫 About Me:
