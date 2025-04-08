@@ -6,7 +6,7 @@
   
 - 🔥 I have experience working on projects involving AI-powered document retrieval, content generation platforms, and backend development for live sports data.
 
-- 🌱 Currently, I am diving deeper into AI, exploring Generative AI, document retrieval systems, and advanced full-stack development.
+- 🌱 Currently, I am diving deeper into AI, exploring Generative AI, document retrieval systems, and full-stack development.
 - 📝 Check out my blog: [![Blog Badge](https://img.shields.io/badge/-Blog-lightblue?style=flat-square&logo=hashnode&logoColor=white)](https://varunv003.hashnode.dev/)
 
 
