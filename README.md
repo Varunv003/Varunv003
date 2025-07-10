@@ -53,6 +53,8 @@
 
 # 🔥 Projects:
 
+- **[PeerConnect](https://github.com/Varunv003/PeerConnect)** – A lightweight file sharing tool that supports large file uploads and downloads through a custom multithreaded HTTP server and socket-based architecture.
+
 - **[DocChat](https://github.com/Varunv003/langchain-palm2-rag_application)** – Langchain Retrieval System
   - AI-powered chatbot for querying PDF documents in real time.
   - Built using Langchain, FAISS, and Google Palm Embeddings with a user-friendly interface for managing document queries.
@@ -63,6 +65,6 @@
 - **[Cricket Score API Backend](https://github.com/Varunv003/live_match_score)** – RESTful API for live cricket scores.
   - Built with Spring Boot and MySQL for real-time sports data.
 
-- **[PeerConnect](https://github.com/Varunv003/PeerConnect)** – A lightweight file sharing tool that supports large file uploads and downloads through a custom multithreaded HTTP server and socket-based architecture.
+
  
 <br>
