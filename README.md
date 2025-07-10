@@ -54,7 +54,7 @@
 # 🔥 Projects:
 
 - **[PeerConnect](https://github.com/Varunv003/PeerConnect)** - Secure File Sharing App
-   – A lightweight file sharing tool that supports large file uploads and downloads through a custom multithreaded HTTP server and socket-based architecture.
+   -  A lightweight file sharing tool that supports large file uploads and downloads through a custom multithreaded HTTP server and socket-based architecture.
 
 - **[DocChat](https://github.com/Varunv003/langchain-palm2-rag_application)** – Langchain Retrieval System
   - AI-powered chatbot for querying PDF documents in real time.
