@@ -63,7 +63,6 @@
 - **[Cricket Score API Backend](https://github.com/Varunv003/live_match_score)** – RESTful API for live cricket scores.
   - Built with Spring Boot and MySQL for real-time sports data.
 
-- **[FloraVision](https://github.com/Varunv003/Plants_Classification)** – Deep learning model for plant species recognition.
-  - Achieved 95% accuracy using CNNs and transfer learning on a diverse plant species dataset.
+- **[PeerConnect](https://github.com/Varunv003/PeerConnect)** – A lightweight file sharing tool that supports large file uploads and downloads through a custom multithreaded HTTP server and socket-based architecture.
  
 <br>
