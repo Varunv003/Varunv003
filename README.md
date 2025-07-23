@@ -69,13 +69,3 @@
  
 <br>
 
-# 📊 GitHub Stats:
-
-[![Varunv003's GitHub | Stats](https://stats.quine.sh/Varunv003/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Varunv003)
-[![Varunv003's GitHub | Dependencies](https://stats.quine.sh/Varunv003/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Varunv003)
-
-![](https://github-readme-stats.vercel.app/api?username=Varunv003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunv003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Varunv003&theme=shadow_green&hide_border=false)
-
-<br>
