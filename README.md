@@ -53,6 +53,9 @@
 
 # 🔥 Projects:
 
+- **[Linko](https://github.com/Varunv003/linko)** – Linko is a fast, secure, and self-hosted URL shortener.
+  - built with Java Spring Boot, MySQL, and Redis.
+
 - **[PeerConnect](https://github.com/Varunv003/PeerConnect)** - Secure File Sharing App
    -  A lightweight file sharing tool that supports large file uploads and downloads through a custom multithreaded HTTP server and socket-based architecture.
 
@@ -63,8 +66,7 @@
 - **[AI Content Generator](https://github.com/Varunv003/Ai-content_generator-nextjs)** – AI-powered platform for dynamic content generation.
   - Developed using Next.js, NEON PostgreSQL, and Drizzle ORM for seamless content creation.
   
-- **[Cricket Score API Backend](https://github.com/Varunv003/live_match_score)** – RESTful API for live cricket scores.
-  - Built with Spring Boot and MySQL for real-time sports data.
+
 
  
 <br>
